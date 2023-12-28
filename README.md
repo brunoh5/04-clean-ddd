@@ -18,5 +18,5 @@ Design dirigido à domínio
 - Value Objects
 - Eventos de domínio
 - Subdomínios (Bounded Contexts)
-- Entidades - Tudo que é factível na aplicação - algo a ser mantido
+- Entidades - Tudo que é factível na aplicação - algo a ser mantido - Palavras chave
 - Casos de uso
